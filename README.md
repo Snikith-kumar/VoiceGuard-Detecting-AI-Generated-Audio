@@ -30,10 +30,16 @@ Steps to Run:
 
 1.Clone the Repo 2.Install all the required libaries and Packages
 
+
+## ⚙️ Installations
+
+1.Clone the Repo  
+2.Install all the required libaries and Packages
+3. Run the Application
+
+```bash
 pip install -r requirements.txt
 
-3. Run the Application
-   
 streamlit run audio.py
 
 
